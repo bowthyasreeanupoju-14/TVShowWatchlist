@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659853626746",
+    "project_id": "tvshowwatchlist-2cd98",
+    "storage_bucket": "tvshowwatchlist-2cd98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659853626746:android:3ed8fa3cdfa168e63b1ac3",
+        "android_client_info": {
+          "package_name": "com.example.tvshowwatchlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhlvFsMPgVCjtRLVlPy7MUCjYZb6NDWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

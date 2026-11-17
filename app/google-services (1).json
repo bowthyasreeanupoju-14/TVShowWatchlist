@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659853626746",
+    "project_id": "tvshowwatchlist-2cd98",
+    "storage_bucket": "tvshowwatchlist-2cd98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659853626746:android:3ed8fa3cdfa168e63b1ac3",
+        "android_client_info": {
+          "package_name": "com.example.tvshowwatchlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659853626746-itrjb138b1to91tc96ov41sf7kflugl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tvshowwatchlist",
+            "certificate_hash": "4ebf7f12558305e8d75997d073ed519ab58c8610"
+          }
+        },
+        {
+          "client_id": "659853626746-ni5gsp7e04qr7lhdbad5o56aar7ovcdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhlvFsMPgVCjtRLVlPy7MUCjYZb6NDWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659853626746-ni5gsp7e04qr7lhdbad5o56aar7ovcdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TV Show Watchlist</string>
+    <string name="tab_watchlist">Watchlist</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_scan">Scan Poster</string>
+    <string name="search_hint">Search TV shows...</string>
+    <string name="scan_poster_hint">Scan a poster image to detect text</string>
+    <string name="btn_select_image">Choose Poster Image</string>
+    <string name="btn_take_photo">Take Poster Photo</string>
+    <string name="filter_all">All</string>
+    <string name="status_plan_to_watch">Plan to Watch</string>
+    <string name="status_watching">Watching</string>
+    <string name="status_completed">Completed</string>
+    <string name="add_to_watchlist">Save to Watchlist</string>
+    <string name="remove_from_watchlist">Remove from Watchlist</string>
+    <string name="sign_in_google">SIGN IN</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="not_signed_in">Not Signed In</string>
+    <string name="signed_in_as">Signed in as %1$s</string>
+    <string name="no_shows_found">No shows found</string>
+    <string name="empty_watchlist">Your watchlist is empty</string>
+    <string name="swipe_to_delete_hint">Swipe left/right to remove show</string>
+    <string name="recognized_lines_title">Recognized Text Lines (Tap to search):</string>
+    <string name="default_web_client_id" translatable="false">YOUR_DEFAULT_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
